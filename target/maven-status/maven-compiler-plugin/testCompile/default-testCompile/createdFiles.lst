@@ -1,0 +1,4 @@
+com/myretail/ApplicationTest.class
+com/myretail/service/ProductNameServiceTest.class
+com/myretail/controller/ProductControllerTest.class
+com/myretail/service/ProductServiceTest.class
